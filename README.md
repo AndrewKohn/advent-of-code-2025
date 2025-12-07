@@ -8,47 +8,8 @@
 
 ## Table of Contents
 
-<table>
-    <tr>
-        <td width="20%" valign="top">
-            <ul>
-                <li>
-                    <a
-                        href="https://github.com/AndrewKohn/advent-of-code-2025/blob/main/01/d1.js"
-                        >01</a
-                    >&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-                    <img
-                        height="18px"
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                        alt="javascript icon"
-                        title="JavaScript"
-                    />
-                </li>
-                <li>
-                    <a
-                        href="https://github.com/AndrewKohn/advent-of-code-2025/blob/main/02/d2.js"
-                        >02</a
-                    >&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-                    <img
-                        height="18px"
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                        alt="javascript icon"
-                        title="JavaScript"
-                    />
-                </li>
-                <li>
-                    <a
-                        href="https://github.com/AndrewKohn/advent-of-code-2025/blob/main/03/d3.js"
-                        >03</a
-                    >&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-                    <img
-                        height="18px"
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                        alt="javascript icon"
-                        title="JavaScript"
-                    />
-                </li>
-            </ul>
-        </td>
-    </tr>
-</table>
+| Day                                                                        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                           |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [01](https://github.com/AndrewKohn/advent-of-code-2025/blob/main/01/d1.js) | <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript" /> |
+| [02](https://github.com/AndrewKohn/advent-of-code-2025/blob/main/02/d2.js) | <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript" /> |
+| [03](https://github.com/AndrewKohn/advent-of-code-2025/blob/main/03/d3.js) | <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript" /> |
